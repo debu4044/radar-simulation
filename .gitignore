@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+generated_alerts.csv
+generated_alerts.kml
+
+.vscode/
+
+venv/
+.env

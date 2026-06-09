@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <name>Radar Location</name>
+
+        <Placemark>
+            <name>Radar_1</name>
+            <description>Main Radar Sensor</description>
+
+            <Point>
+                <coordinates>
+                    72.8777,19.0760,0
+                </coordinates>
+            </Point>
+
+        </Placemark>
+
+    </Document>
+</kml>
